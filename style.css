@@ -1,0 +1,113 @@
+body {
+    color: rgb(51, 51, 51);
+    margin: 0
+}
+
+header {
+    text-align: center;
+    height: 80px;
+    margin-bottom: 100px;
+}
+header img {
+    height: 80%;
+    margin-bottom: 15px;
+}
+
+header p {
+    margin: 0;
+    padding: 15px 0;
+    font-size: 0.9em;
+    background-color: rgb(253, 251, 241);
+    border-top: 1px solid rgb(255, 216, 119);
+    color: rgb(0, 77, 76)
+}
+
+header span {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+main {
+    width: 40%;
+    margin: 0 auto;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+h1 {
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 2.3em;
+}
+
+figure {
+    margin: 0;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+#top-fcaption {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+}
+
+figure img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+#bot-fcaption {
+    text-align: center;
+    color: rgb(153, 153, 153);
+    font-size: 1.1em;
+    margin: 13px 0;
+}
+
+figure div {
+    border-left: 1px solid rgb(255, 216, 119);
+    padding-left: 15px;
+}
+
+figure span {
+    text-transform: uppercase;
+    color:rgb(181, 70, 15);
+}
+
+a {
+    color:rgb(16, 119, 119);
+}
+
+#recipe {
+    font-size: 1.1em;
+}
+
+#recipe > p {
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: 400;
+    border-bottom: 1px solid rgb(196, 243, 242);
+    padding-bottom: 15px;
+}
+
+ul li {
+    padding: 5px 0;
+}
+
+ol li {
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 1em;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
