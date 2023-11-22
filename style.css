@@ -53,9 +53,10 @@ figure {
     margin-bottom: 15px;
 }
 
-figure video {
+video {
     width: 100%;
     border-radius: 10px;
+    box-shadow: 2px 2px 5px silver;
 }
 
 #bot-fcaption {
